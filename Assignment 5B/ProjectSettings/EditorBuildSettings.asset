@@ -5,7 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/MainMenuScene.unity
+    guid: df783040f35fa3e4086a0d3fce87876e
   - enabled: 1
-    path: Assets/PolygonStarter/Scenes/Demo.unity
-    guid: 5215016c20f88ea498985ac3e0ab4f9d
+    path: Assets/Scenes/Level1.unity
+    guid: 39bd4de44682a574a8179f36d3d82333
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: b41313964df50ae42a0d52adcfec33c8
   m_configObjects: {}
